@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureTodo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8141f8f0e3a734bb45aa3b92d94d4b11032de027")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a35c41c9267e4a534becf4b627ed897797c384b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureTodo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureTodo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SecureTodo.Domain\SecureTodo.Domain.csproj" />
     <ProjectReference Include="..\SecureTodo.Infrastructure\SecureTodo.Infrastructure.csproj" />
+    <ProjectReference Include="..\SecureTodo.Shared\SecureTodo.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>
