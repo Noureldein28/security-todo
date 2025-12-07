@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3K4wBezy+I4=",
+  "dgSpecHash": "sHFJGpeMm8Q=",
   "success": true,
   "projectFilePath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Domain/SecureTodo.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/runner/work/security-todo/.codeql-scratch/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/runner/work/security-todo/.codeql-scratch/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -10,7 +10,7 @@
         "projectUniqueName": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Application/SecureTodo.Application.csproj",
         "projectName": "SecureTodo.Application",
         "projectPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Application/SecureTodo.Application.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/home/runner/work/security-todo/.codeql-scratch/dbs/csharp/working/packages",
         "outputPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -82,6 +82,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -97,7 +107,7 @@
         "projectUniqueName": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Domain/SecureTodo.Domain.csproj",
         "projectName": "SecureTodo.Domain",
         "projectPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Domain/SecureTodo.Domain.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/home/runner/work/security-todo/.codeql-scratch/dbs/csharp/working/packages",
         "outputPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -141,6 +151,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -156,7 +176,7 @@
         "projectUniqueName": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Infrastructure/SecureTodo.Infrastructure.csproj",
         "projectName": "SecureTodo.Infrastructure",
         "projectPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Infrastructure/SecureTodo.Infrastructure.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/home/runner/work/security-todo/.codeql-scratch/dbs/csharp/working/packages",
         "outputPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -220,6 +240,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -235,7 +265,7 @@
         "projectUniqueName": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Shared/SecureTodo.Shared.csproj",
         "projectName": "SecureTodo.Shared",
         "projectPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Shared/SecureTodo.Shared.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/home/runner/work/security-todo/.codeql-scratch/dbs/csharp/working/packages",
         "outputPath": "/home/runner/work/security-todo/security-todo/src/SecureTodo.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -279,6 +309,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
