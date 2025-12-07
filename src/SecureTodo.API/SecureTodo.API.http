@@ -1,0 +1,6 @@
+@SecureTodo.API_HostAddress = http://localhost:5028
+
+GET {{SecureTodo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
